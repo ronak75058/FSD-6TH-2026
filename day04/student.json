@@ -1,0 +1,10 @@
+{
+  "title": "Example",
+  "version": 1,
+  "active": true,
+  "items": [10, 20, 30],
+  "config": {
+    "enabled": false,
+    "mode": "default"
+  }
+}
